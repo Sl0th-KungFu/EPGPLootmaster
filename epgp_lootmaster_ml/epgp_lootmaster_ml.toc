@@ -1,0 +1,14 @@
+## Interface: 20501
+## Title: EPGP LootMaster - |cFFFF8080ML|r
+## Author: Bushmastert-MirageRaceway-EU
+## Version: 7.3
+## Notes: Full loot distributing system for EPGP - Master Looter Stuff - Players can disable this safely.
+## X-Category: Guild
+## RequiredDeps: epgp_lootmaster
+## OptionalDeps: EPGP, HeadCount, HeadCount2, CT_RaidTracker, MizusRaidTracker
+## DefaultState: Enabled
+## LoadOnDemand: 0
+lootmaster_ml.lua
+lootmaster_ml_ui.lua
+lootmaster_options_buttonwidget.lua
+lootmaster_options.lua

@@ -1,0 +1,9 @@
+------------------------------------------------------------------------
+r313 | mackatackcom | 2021-07-24 16:13:24 +0000 (Sat, 24 Jul 2021) | 1 line
+Changed paths:
+   M /trunk/Libs/lib-st/Core.lua
+   M /trunk/ml/lootmaster_ml_ui.lua
+
+Window movement, title double click and zoom fix
+------------------------------------------------------------------------
+
